@@ -2,8 +2,11 @@
 
 All notable changes to Commander will be documented in this file.
 
-## [Unreleased]
-- Nothing yet.
+## [0.2.1] - 2026-01-18
+
+### Changed
+- Update copyrights for 2026.
+- Drop legacy agent-scripts pointer.
 
 ## [0.2.0] - 2025-12-05
 
