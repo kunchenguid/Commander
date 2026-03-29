@@ -1,10 +1,10 @@
-// swift-tools-version: 6.0
+// swift-tools-version: 5.7
 import PackageDescription
 
 let package = Package(
     name: "Commander",
     platforms: [
-        .macOS(.v14),
+        .macOS(.v12),
         .iOS(.v17),
         .tvOS(.v17),
         .watchOS(.v10),
